@@ -5,6 +5,6 @@ tqdm
 einops
 pytorch-lightning>=1.0.8
 ffmpeg-python
-timm==0.5.4
+timm>=0.5.4
 torch>=1.10.1
 torchvision>=0.11.2
